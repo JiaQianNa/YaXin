@@ -1,1 +1,2 @@
 LICENSE.txt
+git reset HEAD <file>
